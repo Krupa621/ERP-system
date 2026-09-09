@@ -25,7 +25,9 @@ A complete **Employee Resource Planning (ERP)** system built using the **MERN st
 - 🗒️ Report generation (woking on it)
 
 ---
+
 ## Screenshots
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img width="48%" alt="image" src="https://github.com/user-attachments/assets/09b27128-ca50-4d11-bf5a-d21ac5a8d483" />
   <img width="48%" alt="image" src="https://github.com/user-attachments/assets/df8aab19-fe8c-4ee7-b075-26e1e4f9e0b8" />
@@ -35,7 +37,6 @@ A complete **Employee Resource Planning (ERP)** system built using the **MERN st
   <img width="48%" alt="image" src="https://github.com/user-attachments/assets/93b65876-a47e-496a-8da6-292719efb6d6" />
 
 </div>
-
 
 ## 🛠️ Installation
 
@@ -112,9 +113,9 @@ Contributions are welcome! Feel free to fork this repo, open issues, or submit p
 
 ## 📬 Contact
 
-**Pratap Majge**  
-📧 [pratap.majge@example.com](mailto:pratap.majge@example.com)  
-🌐 [LinkedIn](https://linkedin.com/in/pratapmajge)
+**Krupa Patel**  
+📧 [kpate6201@gmail.com](mailto:kpate6201@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/krupa62/)
 
 ---
 
